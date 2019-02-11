@@ -1,0 +1,7 @@
+Project: github.com/tooploox/oya-fixtures/pack3
+
+Require:
+  github.com/tooploox/oya-fixtures/pack1: v1.1.1
+
+version: |
+  cat ${Oya[BasePath]}/VERSION
