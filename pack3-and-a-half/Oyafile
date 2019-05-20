@@ -1,0 +1,4 @@
+Project: github.com/tooploox/oya-fixtures/pack3_5
+
+version: |
+  cat $BasePath/VERSION
